@@ -1,3 +1,6 @@
+Open for Contribution
+Share your ways for eradicating outliers :P
+
 Feature Engineering with Outlier Removal :)
 
 This repository contains tools and examples for performing feature engineering, with a focus on outlier detection and removal using various techniques such as percentiles, standard deviation, Z-score, and Interquartile Range (IQR). Feature engineering is a crucial step in the data preprocessing pipeline, as it aims to enhance the quality and relevance of the features used for machine learning models.
